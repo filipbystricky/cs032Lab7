@@ -21,7 +21,6 @@ public class Main {
       System.out.print(i + " ");
     }
     System.out.println();
-
     System.out.println("Sorted Array:");
 
     System.out.println(Arrays.toString(InsertionSort.insertionSort(unsortedArray)));
